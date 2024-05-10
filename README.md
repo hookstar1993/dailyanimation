@@ -6,7 +6,7 @@ A single-page static website with a fixed sidebar, smooth scrolling navigation, 
 
 This is a simple yet elegant website created with the help of a free Bootstrap template. It's fully responsive and easy to adapt for your own purposes. You just need some skills in HTML, Bootstrap 4, and CSS3 to personalize it. A working contact form is included. 
 
-Log On : [https://github.com/hookstar1993](https://hookstar1993.github.io/dailyanimation/)
+Log On : [https://hookstar1993.github.io/dailyanimation](https://hookstar1993.github.io/dailyanimation/)
 
 ## Live Preview
 
